@@ -22,8 +22,7 @@ class Image
       new_array[row_index+1][col_index] = 1 unless col_index > 3
       end
     
-#check for neg of left side
-#check for nil
+
       end
 
  
